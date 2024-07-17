@@ -84,11 +84,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=luizndev&radius=16&theme=noctis-minimus&area=true&order=5&hide_title=false&hide_border=true&custom_title=%22Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es%22" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-<a href="https://profile-readme-generator.com/assets/snake.svg">
-  <img src="https://raw.githubusercontent.com/luizndev/luizndev/output/snake.svg" alt="Snake animation" />
-</a>
-
-
-###
