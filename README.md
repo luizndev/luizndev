@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- Systems Analyst and Developer graduated from @anhangueraeducacao<br>- Postgraduate degree in progress in Architecture and IT Infrastructure Management from @anhangueraeducacao</p>
+<p align="left">- Systems Analyst and Developer graduated from @anhangueraeducacao<br>- Postgraduate degree in progress in Architecture and IT Infrastructure Management from @anhangueraeducacao<br>- Tecnico de Informática at @anhangueraeducação</p>
 
 ###
 
@@ -31,17 +31,19 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
 </div>
 
 ###
@@ -84,6 +86,9 @@
 
 ###
 
-<img src="[https://raw.githubusercontent.com/luizndev/luizndev/output/snake.svg](https://profile-readme-generator.com/assets/snake.svg)" alt="Snake animation" />
+<a href="https://profile-readme-generator.com/assets/snake.svg">
+  <img src="https://raw.githubusercontent.com/luizndev/luizndev/output/snake.svg" alt="Snake animation" />
+</a>
+
 
 ###
