@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- Systems Analyst and Developer graduated from @anhangueraeducacao<br>- Postgraduate degree in progress in Architecture and IT Infrastructure Management from @anhangueraeducacao<br>- Tecnico de Informática at @anhangueraeducação</p>
+<p align="left">- Systems Analyst and Developer graduated <br>- Postgraduate degree in progress in Architecture and IT Infrastructure Management<br>- Tecnico de Informática at @anhangueraeducação</p>
 
 ###
 
