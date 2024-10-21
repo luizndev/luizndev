@@ -1,75 +1,71 @@
-<h1 align="left">👋 Hello, how are you? Welcome to my GitHub profile!</h1>
+<h1 align="left">Oi, sou Luis Eduardo, Seja Bem-vindo ao meu perfil no GitHub!</h1>
 
 ###
 
-<p align="left">My name is Luis eduardoand I'm a Front-End Developer, from Teixeira de Freitas BA, Brazil 🇧🇷</p>
+<p align="left">Meu nome é Luis Eduardo e sou Desenvolvedor Front-End, de Teixeira de Freitas BA, Brasil 🇧🇷</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">- Systems Analyst and Developer graduated <br>- Postgraduate degree in progress in Architecture and IT Infrastructure Management<br>- Tecnico de Informática at @anhangueraeducação</p>
+<p align="left">- Analista e Desenvolvedor de Sistemas formado <br>- Pós-graduação em andamento em Arquitetura e Gestão de Infraestrutura de TI<br>- Técnico de Informática pela @anhangueraeducação</p>
 
 ###
 
-<h2 align="left">My Techs</h2>
+<h2 align="left">Minhas Tecnologias</h2>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="logo javascript"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="logo react"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="logo nodejs"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="logo figma"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="logo html5"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="logo css3"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="logo mysql"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
+  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="logo lua"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="logo bootstrap"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="logo mongodb"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="logo graphql"  />
 </div>
 
 ###
 
-<h2 align="left">My social networks</h2>
+<h2 align="left">Minhas redes sociais</h2>
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/luizndev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="logo linkedin"  />
   </a>
   <a href="https://www.youtube.com/@Luiznandrade" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="logo youtube"  />
   </a>
   <a href="https://www.behance.net/fl3cgamer" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="logo behance"  />
   </a>
   <a href="https://instagram.com/luizn.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="logo instagram"  />
   </a>
 </div>
 
 ###
 
-<h1 align="left">My Stats</h1>
+<h1 align="left">Minhas Estatísticas</h1>
 
 ###
 
@@ -79,8 +75,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luizndev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=noctis_minimus&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=luizndev&locale=pt-br&mode=daily&theme=noctis_minimus&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luizndev&radius=16&theme=noctis-minimus&area=true&order=5&hide_title=false&hide_border=true&custom_title=%22Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es%22" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luizndev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=noctis_minimus&hide_border=true&order=2" height="150" alt="gráfico de linguagens"  />
+  <img src="https://streak-stats.demolab.com?user=luizndev&locale=pt-br&mode=daily&theme=noctis_minimus&hide_border=true&border_radius=5&order=3" height="150" alt="gráfico de sequência"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luizndev&radius=16&theme=noctis-minimus&area=true&order=5&hide_title=false&hide_border=true&custom_title=%22Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es%22" height="300" alt="gráfico de atividades"  />
 </div>
-
