@@ -1,4 +1,4 @@
-<h1 align="left">Oi, sou Luis Eduardo, Seja Bem-vindo ao meu perfil no GitHub!</h1>
+<h1 align="left">Seja Bem-vindo ao meu perfil no GitHub!</h1>
 
 ###
 
