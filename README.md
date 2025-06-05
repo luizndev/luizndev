@@ -27,6 +27,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="logo nodejs"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="logo angular"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="logo figma"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="logo html5"  />
@@ -40,8 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="logo bootstrap"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="logo mongodb"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="logo graphql"  />
 </div>
 
 ###
