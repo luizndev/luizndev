@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- Analista e Desenvolvedor de Sistemas, DevOps & Engenharia de Software (Graduando) <br>- Pós-graduação em andamento em Arquitetura e Gestão de Infraestrutura de TI<br>- Pós-graduação em MBA Gestão de Pessoas </p>
+<p align="left">- Analista e Desenvolvedor de Sistemas, DevOps & Engenharia de Software (Graduando) <br>- Pós-graduação em Arquitetura e Gestão de Infraestrutura de TI<br>- Pós-graduação em MBA Gestão de Pessoas </p>
 
 ###
 
