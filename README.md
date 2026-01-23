@@ -1,5 +1,3 @@
-<img src="https://i.imgur.com/po3vQIP.png" width="100%" style="border-radius: 20px">
-
 <h1 align="left">Seja Bem-vindo ao meu perfil no GitHub!</h1>
 
 ###
