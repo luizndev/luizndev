@@ -33,55 +33,22 @@
   <p align="center"><i>Conheça um pouco mais sobre minha trajetória e o que me motiva</i></p>
 </div>
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td bgcolor="#0D1117" style="padding: 25px; border: none;">
-        <p align="justify" style="font-family: ui-sans-serif, system-ui, sans-serif;">
-          Sou <b>Desenvolvedor Full Stack</b> apaixonado por construir soluções robustas e escaláveis. Com formação em <b>Análise e Desenvolvimento de Sistemas</b> e especialização em <font color="#A855F7"><b>DevOps</b></font>, atualmente amplio minha visão estratégica cursando <b>Engenharia de Software</b>. Minha trajetória é marcada pelo compromisso com o aprendizado contínuo e pela busca incessante por excelência técnica.
-          <br/><br/>
-          Possuo sólida experiência no ecossistema <b>TypeScript</b>, utilizando frameworks modernos como <b>NestJS, Next.js</b> e <b>React</b> para criar aplicações de alta performance. No backend, domino a modelagem e gestão de dados com <b>SQL, PostgreSQL</b> e <b>MongoDB</b>, utilizando ferramentas como <font color="#A855F7"><b>Prisma ORM</b></font> para garantir produtividade e segurança.
-          <br/><br/>
-          Tenho experiência prática na integração de serviços de infraestrutura e cloud, como <font color="#A855F7"><b>Google Cloud Platform (GCP)</b></font>, <b>Firebase</b> e <b>Supabase</b>, aplicando conceitos de DevOps para otimizar o ciclo de entrega. Meu foco é resolver desafios complexos com código limpo e arquiteturas organizadas, sempre buscando novas tecnologias que possam transformar o futuro dos produtos digitais.
-        </p>
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
+<p align="justify" style="font-family: ui-sans-serif, system-ui, sans-serif;">
+  Sou <b>Desenvolvedor Full Stack</b> apaixonado por construir soluções robustas e escaláveis. Com formação em <b>Análise e Desenvolvimento de Sistemas</b> e especialização em <font color="#A855F7"><b>DevOps</b></font>, atualmente amplio minha visão estratégica cursando <b>Engenharia de Software</b>. Minha trajetória é marcada pelo compromisso com o aprendizado contínuo e pela busca incessante por excelência técnica.
+  <br/><br/>
+  Possuo sólida experiência no ecossistema <b>TypeScript</b>, utilizando frameworks modernos como <b>NestJS, Next.js</b> e <b>React</b> para criar aplicações de alta performance. No backend, domino a modelagem e gestão de dados com <b>SQL, PostgreSQL</b> e <b>MongoDB</b>, utilizando ferramentas como <font color="#A855F7"><b>Prisma ORM</b></font> para garantir produtividade e segurança.
+  <br/><br/>
+  Tenho experiência prática na integração de serviços de infraestrutura e cloud, como <font color="#A855F7"><b>Google Cloud Platform (GCP)</b></font>, <b>Firebase</b> e <b>Supabase</b>, aplicando conceitos de DevOps para otimizar o ciclo de entrega. Meu foco é resolver desafios complexos com código limpo e arquiteturas organizadas, sempre buscando novas tecnologias que possam transformar o futuro dos produtos digitais.
+</p>
 
-  <table width="100%" border="0" cellspacing="10" cellpadding="0">
-    <tr>
-      <td width="25%" align="center" bgcolor="#0D1117" style="border: 1px solid #1f2937; border-radius: 12px; padding: 20px;">
-        <div style="background-color: rgba(132, 40, 246, 0.1); width: 50px; height: 50px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
-          <img src="https://unpkg.com/lucide-static@latest/icons/code.svg" width="24" height="24" style="filter: invert(31%) sepia(94%) greenhouse(5504%) saturate(7483%) hue-rotate(258deg) brightness(101%) contrast(105%);" />
-        </div>
-        <b style="font-family: ui-sans-serif, system-ui, sans-serif; color: #ffffff;">Clean Code</b>
-        <p style="font-family: ui-sans-serif, system-ui, sans-serif; font-size: 12px; color: #9ca3af;">Código limpo, bem documentado e seguindo boas práticas</p>
-      </td>
-      <td width="25%" align="center" bgcolor="#0D1117" style="border: 1px solid #1f2937; border-radius: 12px; padding: 20px;">
-        <div style="background-color: rgba(132, 40, 246, 0.1); width: 50px; height: 50px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
-          <img src="https://unpkg.com/lucide-static@latest/icons/rocket.svg" width="24" height="24" style="filter: invert(31%) sepia(94%) greenhouse(5504%) saturate(7483%) hue-rotate(258deg) brightness(101%) contrast(105%);" />
-        </div>
-        <b style="font-family: ui-sans-serif, system-ui, sans-serif; color: #ffffff;">Performance</b>
-        <p style="font-family: ui-sans-serif, system-ui, sans-serif; font-size: 12px; color: #9ca3af;">Soluções otimizadas para máxima performance</p>
-      </td>
-      <td width="25%" align="center" bgcolor="#0D1117" style="border: 1px solid #1f2937; border-radius: 12px; padding: 20px;">
-        <div style="background-color: rgba(132, 40, 246, 0.1); width: 50px; height: 50px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
-          <img src="https://unpkg.com/lucide-static@latest/icons/users.svg" width="24" height="24" style="filter: invert(31%) sepia(94%) greenhouse(5504%) saturate(7483%) hue-rotate(258deg) brightness(101%) contrast(105%);" />
-        </div>
-        <b style="font-family: ui-sans-serif, system-ui, sans-serif; color: #ffffff;">Colaboração</b>
-        <p style="font-family: ui-sans-serif, system-ui, sans-serif; font-size: 12px; color: #9ca3af;">Experiência com metodologias ágeis e trabalho em equipe</p>
-      </td>
-      <td width="25%" align="center" bgcolor="#0D1117" style="border: 1px solid #1f2937; border-radius: 12px; padding: 20px;">
-        <div style="background-color: rgba(132, 40, 246, 0.1); width: 50px; height: 50px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
-          <img src="https://unpkg.com/lucide-static@latest/icons/sparkles.svg" width="24" height="24" style="filter: invert(31%) sepia(94%) greenhouse(5504%) saturate(7483%) hue-rotate(258deg) brightness(101%) contrast(105%);" />
-        </div>
-        <b style="font-family: ui-sans-serif, system-ui, sans-serif; color: #ffffff;">Inovação</b>
-        <p style="font-family: ui-sans-serif, system-ui, sans-serif; font-size: 12px; color: #9ca3af;">Sempre buscando novas tecnologias e soluções criativas</p>
-      </td>
-    </tr>
-  </table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,nextjs,nestjs,ts,mysql,postgres,mongodb,docker,gcp,git" />
+</div>
+
+<br/>
+
+<div align="center" style="font-family: ui-sans-serif, system-ui, sans-serif;">
+  <b>🚀 Clean Code</b> • <b>⚡ Performance</b> • <b>🤝 Colaboração</b> • <b>💡 Inovação</b>
 </div>
 
 ###
@@ -93,32 +60,32 @@
 
 <div align="left" style="font-family: ui-sans-serif, system-ui, sans-serif; margin-left: 20px;">
 
-#### <img src="https://skillicons.dev/icons?i=js" height="20" /> Frontend
+### Frontend
 
 - **React** & **Next.js** - Interfaces modernas e de alta performance.
 - **Angular** - Aplicações corporativas escaláveis.
 - **Tailwind CSS** & **Radix UI** - Design systems e estilização moderna.
 - **TypeScript** - Desenvolvimento tipado e robusto.
 
-#### <img src="https://skillicons.dev/icons?i=nodejs" height="20" /> Backend
+### Backend
 
 - **Node.js** & **NestJS** - APIs robustas e arquitetura modular.
 - **Express** - Servidores leves e eficientes.
 - **Prisma ORM** - Gestão de dados produtiva e segura.
 
-#### <img src="https://skillicons.dev/icons?i=mysql" height="20" /> Banco de Dados
+### Banco de Dados
 
 - **PostgreSQL** & **MySQL** - Bancos relacionais estruturados.
 - **MongoDB** - Bancos NoSQL flexíveis.
 - **Redis** - Cache e mensageria em tempo real.
 
-#### <img src="https://skillicons.dev/icons?i=docker" height="20" /> Cloud & DevOps
+### Cloud & DevOps
 
 - **GCP (Google Cloud)** - Infraestrutura em nuvem escalável.
 - **Docker** - Conteinerização e portabilidade.
 - **CI/CD** - Automação de deploy com GitHub Actions.
 
-#### <img src="https://skillicons.dev/icons?i=vscode" height="20" /> Ferramentas
+### Ferramentas
 
 - **VS Code**, **Figma**, **Postman**, **Jira**.
 
