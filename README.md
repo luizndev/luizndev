@@ -3,9 +3,9 @@
     Olá, eu sou 
     <br/>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Luis+Eduardo+Andrade">
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=45&pause=1000&color=111111&center=true&vCenter=true&width=600&lines=Luis+Eduardo+Andrade">
-      <img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Luis+Eduardo+Andrade">
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Luis+Eduardo+Andrade">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=30&pause=1000&color=111111&center=true&vCenter=true&width=600&lines=Luis+Eduardo+Andrade">
+      <img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Luis+Eduardo+Andrade">
     </picture>
     <br/>
     <img src="https://img.shields.io/badge/📍%20TEIXEIRA%20DE%20FREITAS,%20BAHIA,%20BRASIL-212121?style=for-the-badge&logoColor=white" />
