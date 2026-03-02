@@ -61,25 +61,6 @@
 ###
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8428f6&text=Estatísticas%20%26%20Atividade&fontSize=40&fontAlignY=40&color=8428f6,c084fc" width="600" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=luizndev&show_icons=true&theme=visionary&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&icon_color=A855F7">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=luizndev&show_icons=true&theme=default&hide_border=false">
-    <img src="https://github-readme-stats.vercel.app/api?username=luizndev&show_icons=true&theme=visionary&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&icon_color=A855F7" height="165">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luizndev&layout=compact&theme=visionary&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luizndev&layout=compact&theme=default&hide_border=false">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizndev&layout=compact&theme=visionary&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" height="165">
-  </picture>
-</div>
-
-###
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8428f6&text=Meus%20Cursos&fontSize=40&fontAlignY=40&color=8428f6,c084fc" width="600" />
   <p align="center"><i>Dá uma olhadinha no meu curso gratuito para o FiveM (2021/22)</i></p>
 </div>
