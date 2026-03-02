@@ -26,7 +26,7 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td bgcolor="#0D1117" style="border: 1px solid #30363d; border-radius: 12px; padding: 25px;">
+      <td bgcolor="#0D1117" style="border-radius: 12px; padding: 25px;">
         <p align="justify" style="font-family: ui-sans-serif, system-ui, sans-serif;">
           Sou <b>Desenvolvedor Full Stack</b> apaixonado por construir soluções robustas e escaláveis. Com formação em <b>Análise e Desenvolvimento de Sistemas</b> e especialização em <font color="#A855F7"><b>DevOps</b></font>, atualmente amplio minha visão estratégica cursando <b>Engenharia de Software</b>. Minha trajetória é marcada pelo compromisso com o aprendizado contínuo e pela busca incessante por excelência técnica.
           <br/><br/>
