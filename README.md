@@ -41,7 +41,6 @@
   Tenho experiência prática na integração de serviços de infraestrutura e cloud, como <font color="#A855F7"><b>Google Cloud Platform (GCP)</b></font>, <b>Firebase</b> e <b>Supabase</b>, aplicando conceitos de DevOps para otimizar o ciclo de entrega. Meu foco é resolver desafios complexos com código limpo e arquiteturas organizadas, sempre buscando novas tecnologias que possam transformar o futuro dos produtos digitais.
 </p>
 
-
 <br/>
 
 <div align="center" style="font-family: ui-sans-serif, system-ui, sans-serif;">
@@ -56,7 +55,7 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,angular,taiwindcss,ts,js,nodejs,react,nestjs,mysql,postgres,mongodb,docker,gcp,git" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,html,css,react,nextjs,angular,tailwind,bootstrap,sass,styledcomponents,vite,nodejs,powershell,bash,mysql,mongodb,postgres,supabase,vercel,azure,gcp,git,github,vscode,postman,jest,linux,figma,xd,ai,ps,pr" />
 </div>
 
 ###
@@ -77,31 +76,18 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizndev&layout=compact&theme=visionary&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" height="165">
   </picture>
 </div>
+
 ###
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8428f6&text=Estatísticas%20%26%20Atividade&fontSize=40&fontAlignY=40&color=8428f6,c084fc" width="600" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8428f6&text=Meus%20Cursos&fontSize=40&fontAlignY=40&color=8428f6,c084fc" width="600" />
+  <p align="center"><i>Dá uma olhadinha no meu curso gratuito para o FiveM (2021/22)</i></p>
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=luizndev&show_icons=true&theme=visionary&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&icon_color=A855F7">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=luizndev&show_icons=true&theme=default&hide_border=false">
-    <img src="https://github-readme-stats.vercel.app/api?username=luizndev&show_icons=true&theme=visionary&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&icon_color=A855F7" height="165">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luizndev&layout=compact&theme=visionary&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luizndev&layout=compact&theme=default&hide_border=false">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizndev&layout=compact&theme=visionary&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" height="165">
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizndev/luizndev/snake/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luizndev/luizndev/snake/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luizndev/luizndev/snake/github-contribution-grid-snake.svg">
-  </picture>
+  <a href="https://youtu.be/DdzoRe-Cc7c?si=EtZ3eQrbVtacJbLk" target="_blank">
+    <img src="https://img.youtube.com/vi/DdzoRe-Cc7c/maxresdefault.jpg" alt="Curso Mago do FiveM" width="600" style="border-radius: 12px; border: 2px solid #8428f6;" />
+  </a>
 </div>
 
 ###
