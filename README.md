@@ -1,10 +1,4 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Luis%20Eduardo%20Andrade&fontSize=60&desc=Software%20Engineer&descAlignY=65&descSize=25&animation=twinkling&fontAlignY=40">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&fontColor=111111&text=Luis%20Eduardo%20Andrade&fontSize=60&desc=Software%20Engineer&descAlignY=65&descSize=25&animation=twinkling&fontAlignY=40">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Luis%20Eduardo%20Andrade&fontSize=60&desc=Software%20Engineer&descAlignY=65&descSize=25&animation=twinkling&fontAlignY=40" width="100%">
-  </picture>
-  
   <p align="center" style="font-family: ui-sans-serif, system-ui, sans-serif;">
     Olá, eu sou 
     <br/>
