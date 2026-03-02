@@ -41,9 +41,6 @@
   Tenho experiência prática na integração de serviços de infraestrutura e cloud, como <font color="#A855F7"><b>Google Cloud Platform (GCP)</b></font>, <b>Firebase</b> e <b>Supabase</b>, aplicando conceitos de DevOps para otimizar o ciclo de entrega. Meu foco é resolver desafios complexos com código limpo e arquiteturas organizadas, sempre buscando novas tecnologias que possam transformar o futuro dos produtos digitais.
 </p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,react,nextjs,nestjs,ts,mysql,postgres,mongodb,docker,gcp,git" />
-</div>
 
 <br/>
 
@@ -58,37 +55,8 @@
   <p align="center"><i>Tecnologias e habilidades que utilizo no dia a dia</i></p>
 </div>
 
-<div align="left" style="font-family: ui-sans-serif, system-ui, sans-serif; margin-left: 20px;">
-
-### Frontend
-
-- **React** & **Next.js** - Interfaces modernas e de alta performance.
-- **Angular** - Aplicações corporativas escaláveis.
-- **Tailwind CSS** & **Radix UI** - Design systems e estilização moderna.
-- **TypeScript** - Desenvolvimento tipado e robusto.
-
-### Backend
-
-- **Node.js** & **NestJS** - APIs robustas e arquitetura modular.
-- **Express** - Servidores leves e eficientes.
-- **Prisma ORM** - Gestão de dados produtiva e segura.
-
-### Banco de Dados
-
-- **PostgreSQL** & **MySQL** - Bancos relacionais estruturados.
-- **MongoDB** - Bancos NoSQL flexíveis.
-- **Redis** - Cache e mensageria em tempo real.
-
-### Cloud & DevOps
-
-- **GCP (Google Cloud)** - Infraestrutura em nuvem escalável.
-- **Docker** - Conteinerização e portabilidade.
-- **CI/CD** - Automação de deploy com GitHub Actions.
-
-### Ferramentas
-
-- **VS Code**, **Figma**, **Postman**, **Jira**.
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,angular,taiwindcss,ts,js,nodejs,react,nestjs,mysql,postgres,mongodb,docker,gcp,git" />
 </div>
 
 ###
@@ -109,40 +77,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizndev&layout=compact&theme=visionary&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" height="165">
   </picture>
 </div>
-
-<div align="left" style="font-family: ui-sans-serif, system-ui, sans-serif; margin-left: 20px;">
-
-#### <img src="https://skillicons.dev/icons?i=js" height="20" /> Frontend
-
-- **React** & **Next.js** - Interfaces modernas e de alta performance.
-- **Angular** - Aplicações corporativas escaláveis.
-- **Tailwind CSS** & **Radix UI** - Design systems e estilização moderna.
-- **TypeScript** - Desenvolvimento tipado e robusto.
-
-#### <img src="https://skillicons.dev/icons?i=nodejs" height="20" /> Backend
-
-- **Node.js** & **NestJS** - APIs robustas e arquitetura modular.
-- **Express** - Servidores leves e eficientes.
-- **Prisma ORM** - Gestão de dados produtiva e segura.
-
-#### <img src="https://skillicons.dev/icons?i=mysql" height="20" /> Banco de Dados
-
-- **PostgreSQL** & **MySQL** - Bancos relacionais estruturados.
-- **MongoDB** - Bancos NoSQL flexíveis.
-- **Redis** - Cache e mensageria em tempo real.
-
-#### <img src="https://skillicons.dev/icons?i=docker" height="20" /> Cloud & DevOps
-
-- **GCP (Google Cloud)** - Infraestrutura em nuvem escalável.
-- **Docker** - Conteinerização e portabilidade.
-- **CI/CD** - Automação de deploy com GitHub Actions.
-
-#### <img src="https://skillicons.dev/icons?i=vscode" height="20" /> Ferramentas
-
-- **VS Code**, **Figma**, **Postman**, **Jira**.
-
-</div>
-
 ###
 
 <div align="center">
